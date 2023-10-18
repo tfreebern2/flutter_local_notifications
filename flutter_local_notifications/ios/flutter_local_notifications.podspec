@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_local_notifications'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'Flutter plugin for displaying local notifications.'
   s.description      = <<-DESC
 Flutter plugin for displaying local notifications.
